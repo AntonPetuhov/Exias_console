@@ -1,0 +1,16 @@
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.exe
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.deps.json
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.runtimeconfig.json
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.runtimeconfig.dev.json
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.dll
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\ref\Exias_console.dll
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\bin\Debug\net5.0\Exias_console.pdb
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.csproj.AssemblyReference.cache
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.AssemblyInfoInputs.cache
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.AssemblyInfo.cs
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.dll
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\ref\Exias_console.dll
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.pdb
+C:\Users\anton.petuhov\source\repos\Exias_console\Exias_console\obj\Debug\net5.0\Exias_console.genruntimeconfig.cache
